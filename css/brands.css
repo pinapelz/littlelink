@@ -1138,3 +1138,13 @@ button:hover,
 .button.button-misskey:focus {
   filter: brightness(90%);
 }
+
+/*Yttimed*/
+.button.button-yttimed {
+  color: #ffffffde;
+  background-color: #a47a3b;
+}
+.button.button-yttimed:hover,
+.button.button-yttimed:focus {
+  filter: brightness(90%);
+}
