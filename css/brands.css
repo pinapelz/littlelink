@@ -911,7 +911,7 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Twitter (archiving soon, see 'X') */
+/* Twitter */
 .button.button-twit {
   color: #ffffff;
   background-color: #1da1f2;
@@ -1025,17 +1025,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* X */
-.button.button-x {
-  color: #FFFFFF;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
-}
-.button.button-x:hover,
-.button.button-x:focus {
-  filter: brightness(90%);
-}
-
 /* Xing */
 .button.button-xing {
   color: #ffffff;
@@ -1067,3 +1056,85 @@ button:hover,
   filter: brightness(90%);
 }
 
+/*Nijitracker*/
+.button.button-nijitracker {
+  color: #ffffff;
+  background-color: #2A4B71;
+}
+.button.button-nijitracker:hover,
+.button.button-nijitracker:focus {
+  filter: brightness(90%);
+}
+
+/*Patchwork*/
+.button.button-patchwork {
+  color: #ffffff;
+  background-color: #90045dbd;
+}
+.button.button-nijitracker:hover,
+.button.button-nijitracker:focus {
+  filter: brightness(90%);
+}
+
+/* OneDrive Vercel Index */
+.button.button-odvc {
+  color: #ffffff;
+  background-color: #1532c3;
+}
+.button.button-odvc:hover,
+.button.button-odvc:focus {
+  filter: brightness(90%);
+}
+
+/* Navidrome */
+.button.button-navidrome {
+  color: #ffffff;
+  background-color: #0084ff;
+}
+.button.button-navidrome:hover,
+.button.button-navidrome:focus {
+  filter: brightness(90%);
+}
+
+/* MoveKyun */
+.button.button-mk-short {
+  color: #ffffffde;
+  background-color: #e890b1;
+}
+.button.button-mk-short:hover,
+.button.button-mk-short:focus {
+  filter: brightness(90%);
+}
+
+/* X */
+.button.button-x {
+  color: #FFFFFF;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
+}
+.button.button-x:hover,
+.button.button-x:focus {
+  filter: brightness(90%);
+}
+
+
+
+/*Gittea*/
+.button.button-gittea {
+  color: #ffffffde;
+  background-color: #2e323e;
+}
+.button.button-gittea:hover,
+.button.button-gittea:focus {
+  filter: brightness(90%);
+}
+
+/*Misskey*/
+.button.button-misskey {
+  color: #ffffffde;
+  background-color: #58b400;
+}
+.button.button-misskey:hover,
+.button.button-misskey:focus {
+  filter: brightness(90%);
+}
