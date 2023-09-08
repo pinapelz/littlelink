@@ -1148,3 +1148,13 @@ button:hover,
 .button.button-yttimed:focus {
   filter: brightness(90%);
 }
+
+/*FFXIVMacroTimer*/
+.button.button-ffxivmacro {
+  color: #ffffffde;
+  background-color: #391515;
+}
+.button.button-ffxivmacro:hover,
+.button.button-ffxivmacro:focus {
+  filter: brightness(90%);
+}
