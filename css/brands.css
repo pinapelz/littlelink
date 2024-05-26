@@ -1152,3 +1152,42 @@ button:hover,
   filter: brightness(90%);
 }
 
+/*Gittea*/
+.button.button-gittea {
+  color: #ffffffde;
+  background-color: #2e323e;
+}
+.button.button-gittea:hover,
+.button.button-gittea:focus {
+  filter: brightness(90%);
+}
+
+/*Misskey*/
+.button.button-misskey {
+  color: #ffffffde;
+  background-color: #58b400;
+}
+.button.button-misskey:hover,
+.button.button-misskey:focus {
+  filter: brightness(90%);
+}
+
+/*Yttimed*/
+.button.button-yttimed {
+  color: #ffffffde;
+  background-color: #a47a3b;
+}
+.button.button-yttimed:hover,
+.button.button-yttimed:focus {
+  filter: brightness(90%);
+}
+
+/*FFXIVMacroTimer*/
+.button.button-ffxivmacro {
+  color: #ffffffde;
+  background-color: #391515;
+}
+.button.button-ffxivmacro:hover,
+.button.button-ffxivmacro:focus {
+  filter: brightness(90%);
+}
